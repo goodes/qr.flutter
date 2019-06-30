@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:qr_flutter/qr_flutter.dart';
 
 class MainScreen extends StatefulWidget {

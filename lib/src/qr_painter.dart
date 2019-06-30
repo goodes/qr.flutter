@@ -4,10 +4,10 @@
  * See LICENSE for distribution and usage details.
  */
 import 'dart:async';
-import 'dart:ui' as ui;
+import 'package:flutter_web_ui/ui.dart' as ui;
 
-import 'package:flutter/services.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/services.dart';
+import 'package:flutter_web/widgets.dart';
 import 'package:qr/qr.dart';
 
 typedef QrError = void Function(dynamic error);

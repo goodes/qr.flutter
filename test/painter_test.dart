@@ -1,8 +1,8 @@
 import 'dart:io';
-import 'dart:ui';
+import 'package:flutter_web_ui/ui.dart';
 
-import 'package:flutter/services.dart';
-import 'package:flutter_test/flutter_test.dart';
+import 'package:flutter_web/services.dart';
+import 'package:flutter_web_test/flutter_test.dart';
 import 'package:qr/qr.dart';
 import 'package:qr_flutter/src/qr_painter.dart';
 

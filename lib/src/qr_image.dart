@@ -3,8 +3,8 @@
  * Copyright (c) 2019 the QR.Flutter authors.
  * See LICENSE for distribution and usage details.
  */
-import 'package:flutter/foundation.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/foundation.dart';
+import 'package:flutter_web/widgets.dart';
 import 'package:qr/qr.dart';
 
 import 'qr_painter.dart';
